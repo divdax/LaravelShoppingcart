@@ -1,3 +1,5 @@
+> This repo is just an old fork and works for Laravel <=5.7. Better use this package: https://github.com/darryldecode/laravelshoppingcart
+
 ## LaravelShoppingcart
 [![Build Status](https://travis-ci.org/Crinsane/LaravelShoppingcart.png?branch=master)](https://travis-ci.org/Crinsane/LaravelShoppingcart)
 [![Total Downloads](https://poser.pugx.org/gloudemans/shoppingcart/downloads.png)](https://packagist.org/packages/gloudemans/shoppingcart)
